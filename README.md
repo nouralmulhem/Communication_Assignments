@@ -5,7 +5,7 @@
 
 </div>
 <div align="center">
-   <img align="center" height=310px src="https://cdn.dribbble.com/users/1371241/screenshots/6829039/07-wave.gif" alt="logo">
+   <img align="center" height=400px src="https://cdn.dribbble.com/users/1371241/screenshots/6829039/07-wave.gif" alt="logo">
 
 </div>
 
