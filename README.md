@@ -17,6 +17,9 @@
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#assignments"> 📝 Assignments</a>
+  - <a href ="#assignment1"> ☝️ Assignment 1</a>
+  - <a href ="#assignment2"> ✌️ Assignment 2</a>
+  - <a href ="#assignment3"> 👌 Assignment 3</a>
 - <a href ="#contributors"> ✨ Contributors</a>
 - <a href ="#license"> 🔒 License</a>
 <hr style="background-color: #4b4c60"></hr>
@@ -43,6 +46,27 @@ Solution of assignment in course Digital communications ELC325B</li>
 <a id ="assignments"></a>
 
 ## <img align= "center" width=50px src="https://media4.giphy.com/media/xN3IbsXsm1pOtGOkx2/giphy.gif?cid=ecf05e47lnbd6mvq1joc1wjqtdh7aonlxeiin9t26d7qgrh1&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Assignments 
+
+<a id = "assignment1"></a>
+
+### <img align= "center" width=50px src="https://media4.giphy.com/media/xN3IbsXsm1pOtGOkx2/giphy.gif?cid=ecf05e47lnbd6mvq1joc1wjqtdh7aonlxeiin9t26d7qgrh1&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Assignment 1
+<ul>
+<li>This assignment is mainly talking about using uniform quantizer and see the  affect of this quantizer on both uniform signal and non-uniform ones with  small modification on the quantizer</li>
+<li> calculating the signal to noise ratio for each to compare results when different number of bits are used to transmit the signal which means a more or less resolution on transmitting</li>
+<li> for the non-uniform signal we used smaller quantization 
+steps for smaller signal amplitudes this achieved through compressing 
+the signal using the μ-Law Companding Technique then applying uniform 
+quantizer which is equivalent to non-uniform quantization</li>
+<li>View <a href="https://github.com/nouralmulhem/Communication_Assignments/tree/main/Assignment%201">Assignment 1</a></li>
+</ul>
+
+<a id = "assignment2"></a>
+
+### <img align= "center" width=50px src="https://media4.giphy.com/media/xN3IbsXsm1pOtGOkx2/giphy.gif?cid=ecf05e47lnbd6mvq1joc1wjqtdh7aonlxeiin9t26d7qgrh1&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Assignment 2
+
+<a id = "assignment3"></a>
+
+### <img align= "center" width=50px src="https://media4.giphy.com/media/xN3IbsXsm1pOtGOkx2/giphy.gif?cid=ecf05e47lnbd6mvq1joc1wjqtdh7aonlxeiin9t26d7qgrh1&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Assignment 3
 
 <hr style="background-color: #4b4c60"></hr>
 <a id ="contributors"></a>
