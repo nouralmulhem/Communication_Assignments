@@ -188,29 +188,29 @@ For input: 0011000011
 </thead>
 <tr>
 <td>Φ1 VS time after using the GM_Bases function</td>
-<td  width="50%">
+<td  width="40%">
 <img src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/7718f5e6-4368-41ec-8178-f4ff8e2fb13d">
 </td>
 </tr>
 <tr>
 <td>Φ2 VS time after using the GM_Bases function</td>
-<td  width="50%"><img src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/1181b03a-a42c-431d-a12c-c70f1b0a8605"></td>
+<td  width="40%"><img src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/1181b03a-a42c-431d-a12c-c70f1b0a8605"></td>
 </tr>
 <tr>
 <td>Signal Space representation of signals s1,s2</td>
-<td  width="50%"><img src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/ad16f1a3-bfd1-420b-9bde-e8876c128bc2"></td>
+<td  width="40%"><img src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/ad16f1a3-bfd1-420b-9bde-e8876c128bc2"></td>
 </tr>
 <tr>
 <td>Signal Space representation of signals s1,s2 with E/σ¬2 =10dB</td>
-<td  width="50%"><img src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/0ed2d44a-1417-4f60-8912-d118382588b1"></td>
+<td  width="40%"><img src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/0ed2d44a-1417-4f60-8912-d118382588b1"></td>
 </tr>
 <tr>
 <td>Signal Space representation of signals s1,s2 with E/σ¬2 =0dB</td>
-<td  width="50%"><img src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/57272a81-3e8f-41d9-8669-6dcd0ab637d5"></td>
+<td  width="40%"><img src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/57272a81-3e8f-41d9-8669-6dcd0ab637d5"></td>
 </tr>
 <tr>
 <td>Signal Space representation of signals s1,s2 with E/σ¬2 =-5dB</td>
-<td  width="50%"><img src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/155d8d47-7482-415e-bad3-01f7aebcc642"></td>
+<td  width="40%"><img src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/155d8d47-7482-415e-bad3-01f7aebcc642"></td>
 </tr>
 </table>
 
