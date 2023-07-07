@@ -228,4 +228,4 @@ For input: 0011000011
 
 ## 🔒 License <a id ="license"></a>
 
->This software is licensed under MIT License, See [License](https://github.com/BasmaElhoseny01/frog-frenzy/blob/main/LICENSE) for more information ©Frogger.
+>This software is licensed under MIT License, See [License](https://github.com/BasmaElhoseny01/frog-frenzy/blob/main/LICENSE) for more information ©Nour.
