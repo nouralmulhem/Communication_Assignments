@@ -59,6 +59,41 @@ the signal using the μ-Law Companding Technique then applying uniform
 quantizer which is equivalent to non-uniform quantization</li>
 <li>View <a href="https://github.com/nouralmulhem/Communication_Assignments/tree/main/Assignment%201">Assignment 1</a></li>
 </ul>
+<table>
+<thead>
+<th>Title</th>
+<th>Image</th>
+<th>Description</th>
+</thead>
+<tr>
+<td>Uniform Quantizer</td>
+<td width="50%"><img  src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/5c01f681-9211-4a73-ac15-2b358c524b71"></td>
+<td>Function is responsible to quantize and encode the transmitted 
+signal to a specific number of levels specified by the number of bits 
+it takes so the block outputs the zero-based index of the associated 
+region</td>
+</tr>
+<tr>
+<td>Uniform De Quantizer</td>
+<td width="50%"><img  src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/92b4a97a-5e91-451c-8ab4-ad2446c52097">
+</td>
+<td>which was mainly responsible to decode the quantized signal and get the range back to the originally transmitted signal using previously calculated delta and x_min values</td>
+</tr>
+<tr>
+<td>Quantize Dequantize Ramp Signal</td>
+<td width="50%"><img  src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/4ecfbb9f-b59b-4255-a464-aaa616194494"><img  src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/90319681-d33e-4b90-8de7-0113ac33df0c"></td>
+<td>
+
+- Midrise Figure
+
+  The figure shows a ramp function (dashed) which values ranges from -6 to 6 and the output of the quantizer and dequantizer for this signal where we used the mid-rise staircase for transmitting and using number of bits = 3 which leads to have 8 levels of values. the origin lies in the middle of a raising part of the stair-case like graph.
+
+- Midtread Figure
+  This figure shows the same ramp function (dashed) but when we used the mid-tread staircase for transmitting the signal, as shown the origin lies in the middle of a tread of the stair-case like graph. 
+</td>
+</tr>
+</table>
+
 
 <a id = "assignment2"></a>
 
