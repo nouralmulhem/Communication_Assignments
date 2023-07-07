@@ -163,6 +163,33 @@ For input: 0011000011
 
 ### <img align= "center" width=50px src="https://media4.giphy.com/media/xN3IbsXsm1pOtGOkx2/giphy.gif?cid=ecf05e47lnbd6mvq1joc1wjqtdh7aonlxeiin9t26d7qgrh1&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Assignment 3
 
+  Gram-Schmidt orthogonalization is a mathematical procedure that takes a set of linearly independent vectors and constructs an orthogonal or orthonormal set of vectors that span the same subspace. It is commonly used in linear algebra and signal processing.
+
+<table>
+<tr>
+<td  width="50%">
+<img src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/70ebb47c-23de-4971-8bf6-1a80ccf94887" >
+</td>
+<td  width="50%">
+<img src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/905d7979-e1a0-48c9-b34e-43469bb6cd98" >
+</td>
+
+</tr>
+
+</table>
+
+
+<table>
+<thead>
+<th>Description</th>
+<th>Image</th>
+</thead>
+<tr>
+<td>Φ1 VS time after using the GM_Bases function</td>
+<td  width="50%"></td>
+</tr>
+</table>
+
 <hr style="background-color: #4b4c60"></hr>
 <a id ="contributors"></a>
 
