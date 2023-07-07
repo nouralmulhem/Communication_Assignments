@@ -145,7 +145,7 @@ View <a href="https://github.com/nouralmulhem/Communication_Assignments/tree/mai
 <td>Plot the output of the receive filter for the three mentioned cases 
 For input: 0011000011
 </td>
-<td width="50%"><img  src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/793783cf-a554-46a6-9d55-ff7268937efe">
+<td width="40%"><img  src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/793783cf-a554-46a6-9d55-ff7268937efe">
 <img  src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/ecd78784-bc65-457d-9098-d8d2fded7cbd">
 <img  src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/87c21840-d5d1-4b2d-a6da-b0c89cf8e711">
 </td>
@@ -153,7 +153,7 @@ For input: 0011000011
 <tr>
 <td>On the same figure, plot the theoretical and simulated Bit Error Rate (BER) Vs E/𝑵𝒐 (where E is the average symbol energy) for the three mentioned cases. Take E/No to be in the range -10 dB: 20:dB. (Use a semilogy plot) 
 </td>
-<td width="50%"><img  src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/088ab469-5d15-4e77-ac62-1fb623b8bc21">
+<td width="40%"><img  src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/088ab469-5d15-4e77-ac62-1fb623b8bc21">
 </td>
 
 </tr>
