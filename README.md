@@ -49,7 +49,7 @@ Solution of assignment in course Digital communications ELC325B</li>
 
 <a id = "assignment1"></a>
 
-### <img align= "center" width=50px src="https://media4.giphy.com/media/xN3IbsXsm1pOtGOkx2/giphy.gif?cid=ecf05e47lnbd6mvq1joc1wjqtdh7aonlxeiin9t26d7qgrh1&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Assignment 1
+### <img align= "center" width=60px src="https://media0.giphy.com/media/ksNc3DpgrXoVbfm55o/giphy.gif?cid=ecf05e47xx37ikbgcba0srqvlw511mrn6z2g65a20hc3tn00&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Assignment 1
 <ul>
 <li>This assignment is mainly talking about using uniform quantizer and see the  affect of this quantizer on both uniform signal and non-uniform ones with  small modification on the quantizer</li>
 <li> calculating the signal to noise ratio for each to compare results when different number of bits are used to transmit the signal which means a more or less resolution on transmitting</li>
@@ -129,7 +129,7 @@ For this part we used non-uniform μ-Law quantizer for different μ-val using ze
 
 <a id = "assignment2"></a>
 
-### <img align= "center" width=50px src="https://media4.giphy.com/media/xN3IbsXsm1pOtGOkx2/giphy.gif?cid=ecf05e47lnbd6mvq1joc1wjqtdh7aonlxeiin9t26d7qgrh1&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Assignment 2
+### <img align= "center" width=60px src="https://media2.giphy.com/media/3o3IJrFTTV6Vf8Mfgy/giphy.gif?cid=ecf05e471k7i9700r3t25juhe42xfdkg4qzmfd6wdgoupt6v&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Assignment 2
 <div align="center">
 <img height=500px src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/00828815-c7cd-4f92-841f-592f20bd8d4c">
 </div>
@@ -161,7 +161,7 @@ For input: 0011000011
 
 <a id = "assignment3"></a>
 
-### <img align= "center" width=50px src="https://media4.giphy.com/media/xN3IbsXsm1pOtGOkx2/giphy.gif?cid=ecf05e47lnbd6mvq1joc1wjqtdh7aonlxeiin9t26d7qgrh1&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Assignment 3
+### <img align= "center" width=60px src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dxeHRrZGUzZW9kZzB2aDVjZjlqaG04OTFucm9oZDA5azBlODYxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lrge8fr6HFydZqahbw/giphy.gif"> Assignment 3
 
   Gram-Schmidt orthogonalization is a mathematical procedure that takes a set of linearly independent vectors and constructs an orthogonal or orthonormal set of vectors that span the same subspace. It is commonly used in linear algebra and signal processing.
 
