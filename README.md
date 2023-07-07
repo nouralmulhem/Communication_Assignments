@@ -92,6 +92,38 @@ region</td>
   This figure shows the same ramp function (dashed) but when we used the mid-tread staircase for transmitting the signal, as shown the origin lies in the middle of a tread of the stair-case like graph. 
 </td>
 </tr>
+<tr>
+<td>Uniform Quantizer and De Quantizer on uniform random Signal</td>
+<td width="50%"><img  src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/90319681-d33e-4b90-8de7-0113ac33df0c"></td>
+<td>
+<ul>
+<li>The signal-to-noise ratio (SNR) is one of the performance measures used to describe communication systems.
+</li>
+<li>In this particular figure we did generate a uniform random function and tried to transmit it at different number of levels to see the affect of quantizer and dequantizer on it.
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Uniform Quantizer and De Quantizer on non-uniform random Signa</td>
+<td width="50%"><img  src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/488f63de-a58a-4c01-9099-f79ab5222ef4"></td>
+<td>
+<ul>
+<li>
+For this figure we generated a non-uniform random function and tried the uniform quantizer on it and we discovered that for small number of bits we transmit at.
+</li>
+<li>The SNR value was less than expected and theoretically proved in equations as it is a uniform quantizer applied on a non-uniform signal, in the other hand at higher number of bits we can hardly see a difference.
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Using a non-uniform 𝝁 law quantizer</td>
+<td width="50%"><img  src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/20d79f70-4e3d-4b4d-b250-72a878dae0e6"></td>
+<td>
+For this part we used non-uniform μ-Law quantizer for different μ-val using zero value for the μ means uniform quantizing the signal the blocks output exactly the same graph as last mentioned one and for different μ-values we could obviously see the difference between theoretically calculated SNR and experimentally calculated one
+</td>
+</tr>
 </table>
 
 
