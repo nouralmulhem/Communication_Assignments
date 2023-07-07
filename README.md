@@ -132,7 +132,7 @@ For this part we used non-uniform μ-Law quantizer for different μ-val using ze
 ### <img align= "center" width=50px src="https://media4.giphy.com/media/xN3IbsXsm1pOtGOkx2/giphy.gif?cid=ecf05e47lnbd6mvq1joc1wjqtdh7aonlxeiin9t26d7qgrh1&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Assignment 2
 
 <div align="center">
-<img height=400px src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/00828815-c7cd-4f92-841f-592f20bd8d4c">
+<img height=500px src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/00828815-c7cd-4f92-841f-592f20bd8d4c">
 </div>
 
 
