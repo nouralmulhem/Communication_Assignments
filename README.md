@@ -130,13 +130,34 @@ For this part we used non-uniform μ-Law quantizer for different μ-val using ze
 <a id = "assignment2"></a>
 
 ### <img align= "center" width=50px src="https://media4.giphy.com/media/xN3IbsXsm1pOtGOkx2/giphy.gif?cid=ecf05e47lnbd6mvq1joc1wjqtdh7aonlxeiin9t26d7qgrh1&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Assignment 2
-
-View <a href="https://github.com/nouralmulhem/Communication_Assignments/tree/main/Assignment%202">Assignment 3</a>
-
 <div align="center">
 <img height=500px src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/00828815-c7cd-4f92-841f-592f20bd8d4c">
 </div>
 
+View <a href="https://github.com/nouralmulhem/Communication_Assignments/tree/main/Assignment%202">Assignment 2</a>
+<br>
+<table>
+<thead>
+<th>Description</th>
+<th>Image</th>
+</thead>
+<tr>
+<td>Plot the output of the receive filter for the three mentioned cases 
+For input: 0011000011
+</td>
+<td width="50%"><img  src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/793783cf-a554-46a6-9d55-ff7268937efe">
+<img  src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/ecd78784-bc65-457d-9098-d8d2fded7cbd">
+<img  src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/87c21840-d5d1-4b2d-a6da-b0c89cf8e711">
+</td>
+</tr>
+<tr>
+<td>On the same figure, plot the theoretical and simulated Bit Error Rate (BER) Vs E/𝑵𝒐 (where E is the average symbol energy) for the three mentioned cases. Take E/No to be in the range -10 dB: 20:dB. (Use a semilogy plot) 
+</td>
+<td width="50%"><img  src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/088ab469-5d15-4e77-ac62-1fb623b8bc21">
+</td>
+
+</tr>
+</table>
 
 <a id = "assignment3"></a>
 
