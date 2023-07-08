@@ -139,10 +139,10 @@ View <a href="https://github.com/nouralmulhem/Communication_Assignments/tree/mai
 
 Plot the output of the receive filter for the three mentioned cases 
 For input: 0011000011
-<bt>
-<div ><img height="220px" width="33%" src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/793783cf-a554-46a6-9d55-ff7268937efe">
-<img width="33%"  height="220px" src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/ecd78784-bc65-457d-9098-d8d2fded7cbd">
-<img width="33%" height="220px" src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/87c21840-d5d1-4b2d-a6da-b0c89cf8e711">
+<br>
+<div align="center"><img height="220px" width="30%" src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/793783cf-a554-46a6-9d55-ff7268937efe">
+<img width="30%"  height="220px" src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/ecd78784-bc65-457d-9098-d8d2fded7cbd">
+<img width="30%" height="220px" src="https://github.com/EslamAsHhraf/Hand-Gesture-Recognition/assets/71986226/87c21840-d5d1-4b2d-a6da-b0c89cf8e711">
 </div>
 <br>
 <table>
